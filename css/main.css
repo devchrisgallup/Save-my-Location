@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #00B6EA; 
+}
+
+input {
+    padding: .5%;
+}
+
+button {
+    margin-right: 1%;
+    margin-bottom: 1%;
+    padding: .5%;
+    background-color: lightgray;
+    border-radius: 30%;
+    font-weight: bold;
+    color: #00B6EA;
+    font-size: 1.2em;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul li {
+    color: white;
+}
+
+#tagline {
+    color: #00B6EA;
+    padding: 2%;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+#map {
+    width: 60%;
+    height: 400px;
+    margin-left: 20%; 
+    margin-right: 20%; 
+}
+
+#nameofspot {
+    margin-bottom: 5%;
+}
+
+.getBTN {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: -1.5%;
+}
+
+.getdata {
+    margin-left: 30%;
+}
+
