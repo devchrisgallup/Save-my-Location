@@ -13,9 +13,9 @@ http://www.wampserver.com/en/<br />
 Video to get your first script running. 
 https://www.youtube.com/watch?v=FetZusBljQU
 
-You can use phpMyAdmin which comes with the WAMP installation to run the follow SQL queries to set up the Database. 
-CREATE DATABASE location;
-CREATE TABLE gps(nameofspot VARCHAR(255), l VARCHAR(255), g VARCHAR(255));
+You can use phpMyAdmin which comes with the WAMP installation to run the follow SQL queries to set up the Database. <br />
+CREATE DATABASE location;<br />
+CREATE TABLE gps(nameofspot VARCHAR(255), l VARCHAR(255), g VARCHAR(255));<br />
 
 Get an API key from google
 https://developers.google.com/maps/documentation/javascript/get-api-key
