@@ -9,7 +9,7 @@ This program is in the early stages of development.
 To run PHP scripts your server must support PHP or you can run a local development environment that does. 
 I use WAMP Server with my local development environment.  
 Install WAMP Server.
-http://www.wampserver.com/en/
+http://www.wampserver.com/en/<br />
 Video to get your first script running. 
 https://www.youtube.com/watch?v=FetZusBljQU
 
