@@ -52,8 +52,9 @@ ul li {
 
 #output {
     background-color: #798184;
-    width: 60%;
+    width: 54%;
     margin: 0 auto; 
+    padding: 3%;
 }
 
 .getBTN {
@@ -63,6 +64,8 @@ ul li {
 }
 
 .getdata {
-    margin-left: 30%;
+    margin-left: 12%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%; 
 }
 
