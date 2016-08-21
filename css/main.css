@@ -46,10 +46,6 @@ ul li {
     margin-right: 20%; 
 }
 
-#nameofspot {
-    margin-bottom: 5%;
-}
-
 #output {
     background-color: #798184;
     width: 54%;
@@ -60,7 +56,6 @@ ul li {
 .getBTN {
     text-align: center;
     margin-top: 2%;
-    margin-bottom: -1.5%;
 }
 
 .getdata {
