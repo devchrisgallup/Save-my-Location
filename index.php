@@ -21,17 +21,16 @@
     </div>
     <div id="map">
     </div>
-    <div class="getBTN"> 
-        <button onclick="getLocation()">Save</button>
-        <p id="demo"></p>
-    </div>
-    
     <div class="getBTN">
         <form action="index.php" method="POST" id="locationForm">
             <input type="text" id="nameofspot" name="nameofspot" placeholder="Name of location.">
             <input type="hidden" id="l" name="l">
             <input type="hidden" id="g" name="g">
         </form>
+    </div>
+    <div class="getBTN"> 
+        <button onclick="getLocation()">Save</button>
+        <p id="demo"></p>
     </div>
     <?php include("inc/app.php"); ?>
     <script src="js/app.js"></script>
