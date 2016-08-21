@@ -50,6 +50,12 @@ ul li {
     margin-bottom: 5%;
 }
 
+#output {
+    background-color: #798184;
+    width: 60%;
+    margin: 0 auto; 
+}
+
 .getBTN {
     text-align: center;
     margin-top: 2%;
