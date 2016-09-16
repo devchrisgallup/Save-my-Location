@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.getdata:hover {
+    color: #fff;
+}
+
 body {
     background-color: #00B6EA; 
 }
@@ -63,4 +67,3 @@ ul li {
     margin-top: 0.5%;
     margin-bottom: 0.5%; 
 }
-
