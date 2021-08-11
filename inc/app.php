@@ -43,4 +43,6 @@ $db_conx = mysqli_connect("localhost", "root", "", "location");
             echo "</div>";
 // close database connection
 $db_conx->close();
+
+
 ?>
